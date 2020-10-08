@@ -4,6 +4,12 @@
 
 # Course notes
 
+### Error types
+
+- Syntax error - syntactic errors that prevent your code from loading/compiling.
+- runtime error - crashing code that compiles but breaks at runtime.
+- logic errors - unexpected behaviour, not crashing.
+
 ### The node event loop
 
 Each phase has a FIFO queue of callbacks to execute. While each phase is special in its own way, generally, when the event loop enters a given phase, it will perform any operations specific to that phase, then execute callbacks in that phase's queue until the queue has been exhausted or the maximum number of callbacks has executed. When the queue has been exhausted or the callback limit is reached, the event loop will move to the next phase, and so on.
