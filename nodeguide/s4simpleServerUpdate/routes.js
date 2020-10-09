@@ -27,7 +27,7 @@ const requestHandler = (req, res) => {
     event listener that handles the data event
     and adds the chunk of data to the body object
     we have created.
-  */
+    */
 		req.on('data', (chunk) => {
 			console.log(chunk);
 			body.push(chunk);
