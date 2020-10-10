@@ -4,39 +4,39 @@
 
 # Course content
 
-- What is node?
-- JS refresher
-- Node and understanding the basics
-- Node development workflow and debugging
-- Introduction to express
-- Dynamic content and template engines
-- MVC
-- Enhancements
-- Advanced models and routing
-- SQL
-- Sequelize
-- Intro to Mongo
-- Working with mongoose
-- Sessions and cookies
-- Adding authentication
-- Sending emails
-- Advanced Authentication
-- Error Handling
-- File upload & download
-- Pagination
-- Async requests
-- Adding payment options
-- REST basics
-- REST APIs - practical application
-- async & await
-- Websockets and socket.io
-- Working with graphql
-- Deployment
-- Testing node applications
-- Node as a build tool
-- node and modern JS
-- Node and TS
-- Introduction to Deno
-- Deno CRUD with Mongo
+1. What is node?
+2. JS refresher
+3. [Node and understanding the basics](https://github.com/irisida/web/tree/master/nodeguide/s3simpleServer)
+4. [Node development workflow and debugging](https://github.com/irisida/web/tree/master/nodeguide/s4simpleServerUpdate)
+5. [Introduction to express](https://github.com/irisida/web/tree/master/nodeguide/s5express)
+6. [Dynamic content and template engines](https://github.com/irisida/web/tree/master/nodeguide/s6dynamicContent)
+7. MVC
+8. Enhancements
+9. Advanced models and routing
+10. SQL
+11. Sequelize
+12. Intro to Mongo
+13. Working with mongoose
+14. Sessions and cookies
+15. Adding authentication
+16. Sending emails
+17. Advanced Authentication
+18. Error Handling
+19. File upload & download
+20. Pagination
+21. Async requests
+22. Adding payment options
+23. REST basics
+24. REST APIs - practical application
+25. async & await
+26. Websockets and socket.io
+27. Working with graphql
+28. Deployment
+29. Testing node applications
+30. Node as a build tool
+31. node and modern JS
+32. Node and TS
+33. Introduction to Deno
+34. Deno CRUD with Mongo
 
-# Course notes
+[course notes](https://github.com/irisida/web/blob/master/nodeguide/readmeCourseNotes.md)
