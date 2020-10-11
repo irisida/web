@@ -10,9 +10,9 @@
 4. [Node development workflow and debugging](https://github.com/irisida/web/tree/master/nodeguide/s4simpleServerUpdate)
 5. [Introduction to express](https://github.com/irisida/web/tree/master/nodeguide/s5express)
 6. [Dynamic content and template engines](https://github.com/irisida/web/tree/master/nodeguide/s6dynamicContent)
-7. MVC
-8. Enhancements
-9. Advanced models and routing
+7. [MVC](https://github.com/irisida/web/tree/master/nodeguide/s7mvc)
+8. [Enhancements](https://github.com/irisida/web/tree/master/nodeguide/s8optionalEnhancements)
+9. [Advanced models and routing](https://github.com/irisida/web/tree/master/nodeguide/s9advancedModels)
 10. SQL
 11. Sequelize
 12. Intro to Mongo
