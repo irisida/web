@@ -6,13 +6,13 @@
 
 1. What is node?
 2. JS refresher
-3. [Node and understanding the basics](https://github.com/irisida/web/tree/master/nodeguide/s3simpleServer)
-4. [Node development workflow and debugging](https://github.com/irisida/web/tree/master/nodeguide/s4simpleServerUpdate)
-5. [Introduction to express](https://github.com/irisida/web/tree/master/nodeguide/s5express)
-6. [Dynamic content and template engines](https://github.com/irisida/web/tree/master/nodeguide/s6dynamicContent)
-7. [MVC](https://github.com/irisida/web/tree/master/nodeguide/s7mvc)
-8. [Enhancements](https://github.com/irisida/web/tree/master/nodeguide/s8optionalEnhancements)
-9. [Advanced models and routing](https://github.com/irisida/web/tree/master/nodeguide/s9advancedModels)
+3. [Node and understanding the basics](https://github.com/irisida/web/tree/master/nodeguide/src/s3simpleServer)
+4. [Node development workflow and debugging](https://github.com/irisida/web/tree/master/nodeguide/src/s4simpleServerUpdate)
+5. [Introduction to express](https://github.com/irisida/web/tree/master/nodeguide/src/s5express)
+6. [Dynamic content and template engines](https://github.com/irisida/web/tree/master/nodeguide/src/s6dynamicContent)
+7. [MVC](https://github.com/irisida/web/tree/master/nodeguide/src/s7mvc)
+8. [Enhancements](https://github.com/irisida/web/tree/master/nodeguide/src/s8optionalEnhancements)
+9. [Advanced models and routing](https://github.com/irisida/web/tree/master/nodeguide/src/s9advancedModels)
 10. SQL
 11. Sequelize
 12. Intro to Mongo
