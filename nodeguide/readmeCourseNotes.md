@@ -53,3 +53,18 @@ setTimeout(() => {
 
 console.log('Startup');
 ```
+
+### Thoughts on template engines
+
+- Googling seems to throw up handlebars, ejs and jade (pug) as the mains, and funnily enough that's what max covers in the course.
+- First impressions are that I'm not wild about the ergonomics of ejs `<%= value_to_render %>` syntax.
+- handlebars `{{ value_to_render }}` model is more reminiscent of JSX in react.
+- pug (jade) seems to be the run of the litter and yet it's stark minimalism appeals. Sure the whitespace leaning is a little bit of a throw considering the course is focusing on nodejs and js, but I like it's brutal minimalist approach.
+
+[handlebars](https://handlebarsjs.com/)
+[ejs](https://ejs.co/)
+[pug](https://pugjs.org/api/getting-started.html)
+
+### A walkthrough of the MVC pattern
+
+- TBC
