@@ -1,22 +1,33 @@
 
+const defaultResult = 0
+let currentResult = defaultResult;
 
-const add = (x, y) => x + y;
-const subtract = (x, y) => x - y;
-const multiply = (x, y) => x * y;
-const divide = (x, y) => {
-  if (x != 0 && y != 0) {
-    return x / y;
-  }
-  return 0;
-};
+const getUserInput = () => {
+  return parseInt(userInput.value);
+}
 
-alert(add(5, 5));
+const add = () => {
+  const inputNumber = getUserInput();
+  const operation = `${currentResult} + ${inputNumber}`
+  currentResult = currentResult + inputNumber;
+  outputResult(currentResult, operation);
+}
 
-const initialValue = 0;
-let result = 0;
 
-result = ((initialValue + 10) * 3) / 2 - 1;
+const subtract = () => {
+  const inputNumber = getUserInput();
+  const operation = `${currentResult} - ${inputNumber}`
+  currentResult = currentResult - inputNumber;
+  outputResult(currentResult, operation);
+}
 
-operation = `${initialValue} + 10 * 3 / 2 -1`;
 
-outputResult(result, operation);
+addBtn.addEventListener('click', add)
+subtractBtn.addEventListener('click', subtract)
+
+
+//currentResult = ((initialValue + 10) * 3) / 2 - 1;
+
+//operation = `${initialValue} + 10 * 3 / 2 -1`;
+
+
