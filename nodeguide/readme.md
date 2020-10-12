@@ -1,3 +1,5 @@
+![](https://miro.medium.com/max/1400/1*fsseXIPGEhwmg6kfgXyIjA.jpeg)
+
 # nodejs - The complete guide course
 
 [course link](https://www.udemy.com/course/nodejs-the-complete-guide)

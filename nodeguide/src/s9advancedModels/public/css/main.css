@@ -48,15 +48,16 @@ form {
 
 .main-header__item a {
 	text-decoration: none;
-	color: white;
+	color: #e9a1f7;
 }
 
 .main-header__item a:hover,
 .main-header__item a:active,
 .main-header__item a:focus,
 .main-header__item a.active {
-	color: #e9a1f7;
-	outline-color: #e9a1f7;
+	color: white;
+	outline-color: white;
+	outline-width: thin;
 }
 
 .mobile-nav {
