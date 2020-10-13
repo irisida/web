@@ -8,4 +8,6 @@ Hi and welcome to a selection of web based projects, covering javascript, ts, ht
 
 ### Courses and tutorials
 
-1. [Node js - The complete guide](https://github.com/irisida/web/tree/master/nodeguide)
+1. [Modern javascript bootcamp](https://github.com/irisida/web/tree/master/modernjs)
+
+2. [Node js - The complete guide](https://github.com/irisida/web/tree/master/nodeguide)
